@@ -1,32 +1,0 @@
-pytorch1.11.0:ş
-@
-onnx::MatMul_0
-onnx::MatMul_13onnx::Add_6MatMul_0"MatMul
-=
-model.layer #1: Linear.bias
-onnx::Add_6inputAdd_1"Add
-%
-inputonnx::MatMul_8Relu_2"Relu
-A
-onnx::MatMul_8
-onnx::MatMul_14onnx::Add_10MatMul_3"MatMul
-@
-model.layer #3: Linear.bias
-onnx::Add_10input.3Add_4"Add
-.
-input.312	Softmax_5"Softmax*
-axis torch-jit-export*K
-Bmodel.layer #1: Linear.biasJ(°ÿ}¾ŸóÙ>kş¾~,¾–—ö>PA£¾÷T“>‚„£>øè=	Ài>*/Bmodel.layer #3: Linear.biasJGÃ¼¨œ„>!.>*º
-Bonnx::MatMul_13J Š w=QÙ>”#¦>q‹>¸o¾½(Ç˜½ —”>¤¾€øK¾PÍJ>‹>=Ûë>ö3Œ¾×²¿6¬ã¾~‚¾t+½¨>F…¾ŒNQ¾˜¿Ó½ÔSØ>„à?C?vLò¾8yz>İh%>ó¾>£Í¾?}ˆºãÇ¼¾@µu>Ùjê>^¶›>(·½°vt¾ñé¾(Qÿ¾4_S>çI>*‘
-Bonnx::MatMul_14Jxr‚Š=®é¡¾ÓZ>+NO;¿¼%¾ôM¿¥À¾³?‘=ì‡U¾$m¾›å¬><$=‘y„>ŠÖƒ¾c½˜¾¦4j>8—½–M#¾J(®½7>ö°—=Ø2Ù½€3¼({È½ÒÜo>hY¾šƒö½)Ë)½{~ô¼SŸ
-¾Z$
-onnx::MatMul_0
-
-x
-
-b
-12
-
-x
-
-B	

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b3302ff4.css",
+    "main.js": "/react-gh-pages/static/js/main.454c426b.js",
+    "static/media/pytorch-logo.png": "/react-gh-pages/static/media/pytorch-logo.6a5b52167681c6673b55.png",
+    "static/media/dsgt-logo-light.png": "/react-gh-pages/static/media/dsgt-logo-light.dcfa4bb20b4af1519c6e.png",
+    "static/media/python-logo.png": "/react-gh-pages/static/media/python-logo.f0c9d64775aac23759fe.png",
+    "static/media/flask-logo.png": "/react-gh-pages/static/media/flask-logo.fc6c08ab5fb3e976d904.png",
+    "static/media/react-logo.png": "/react-gh-pages/static/media/react-logo.702a26a65699561606d2.png",
+    "static/media/aws-logo.png": "/react-gh-pages/static/media/aws-logo.7cfb1f5c177359a0bd66.png",
+    "static/media/my_confusion_matrix.png": "/react-gh-pages/static/media/my_confusion_matrix.34f8105b66fe7a8a8705.png",
+    "static/media/model.pt": "/react-gh-pages/static/media/model.2bd9c805ecb6d91662a6.pt",
+    "static/media/pandas-logo.svg": "/react-gh-pages/static/media/pandas-logo.47aa8f846cb5431774dd01fc2aac3201.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/my_deep_learning_model.onnx": "/react-gh-pages/static/media/my_deep_learning_model.a79a81132cb6553ec466.onnx",
+    "main.b3302ff4.css.map": "/react-gh-pages/static/css/main.b3302ff4.css.map",
+    "main.454c426b.js.map": "/react-gh-pages/static/js/main.454c426b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3302ff4.css",
+    "static/js/main.454c426b.js"
+  ]
+}
